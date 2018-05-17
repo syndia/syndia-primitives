@@ -1,0 +1,21 @@
+{
+  "name": "@syndia/ds-spacing",
+  "version": "1.0.0",
+  "description": "Spacing primitives for Syndia design system",
+  "main": "spacing.json",
+  "repository": "https://github.com/syndia/syndia-primitives/tree/master/modules/syndia-spacing",
+  "keywords": [
+    "primitives",
+    "spacing",
+    "space",
+    "space-scale",
+    "variables",
+    "design-system"
+  ],
+  "author": "John Ripke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syndia/syndia-primitives/issues"
+  },
+  "homepage": "https://github.com/syndia/syndia-primitives#readme"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "@syndia/ds-primitives",
+  "version": "1.0.0",
+  "description": "Typography, spacing, and color primitives for Syndia design system",
+  "main": "index.json",
+  "repository": "https://github.com/syndia/syndia-primitives/tree/master/modules/syndia-primitives",
+  "keywords": [
+    "primitives",
+    "colors",
+    "spacing",
+    "typography",
+    "variables",
+    "design-system"
+  ],
+  "author": "John Ripke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syndia/syndia-primitives/issues"
+  },
+  "homepage": "https://github.com/syndia/syndia-primitives#readme"
+}
