@@ -1,4 +1,4 @@
-# Primer Primitives
+# Syndia Primitives
 
 This is a monorepo for color, spacing, and typography primitives for use with [Syndia][syndia], Syndia's design system.
 
@@ -24,9 +24,9 @@ $ npm install --save @syndia/ds-primitives
 [MIT](./LICENSE) &copy; [John Ripke](https://johnripke.com)
 
 [syndia]: https://github.com/syndia/design-system
-[syndia-primitives]: https://github.com/syndia/syndia-primitives/tree/master/modules/ds-primitives
-[syndia-colors]: https://github.com/syndia/syndia-primitives/tree/master/modules/ds-colors
-[syndia-spacing]: https://github.com/primer/syndia-primitives/tree/master/modules/ds-spacing
-[syndia-typography]: https://github.com/primer/syndia-primitives/tree/master/modules/ds-typography
+[syndia-primitives]: https://github.com/syndia/syndia-primitives/tree/master/modules/syndia-primitives
+[syndia-colors]: https://github.com/syndia/syndia-primitives/tree/master/modules/syndia-colors
+[syndia-spacing]: https://github.com/primer/syndia-primitives/tree/master/modules/syndia-spacing
+[syndia-typography]: https://github.com/primer/syndia-primitives/tree/master/modules/syndia-typography
 [npm]: https://www.npmjs.com/
 [install-npm]: https://docs.npmjs.com/getting-started/installing-node

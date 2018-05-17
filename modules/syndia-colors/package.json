@@ -1,5 +1,5 @@
 {
-  "name": "@syndia/primitives-colors",
+  "name": "@syndia/ds-colors",
   "version": "1.0.0",
   "description": "Color primitives for Syndia design system",
   "main": "colors.json",
