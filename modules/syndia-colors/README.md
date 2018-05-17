@@ -4,7 +4,7 @@ Color primitives for use with [Syndia][syndia], Syndia's design system.
 
 ## Install
 
-This repository is distributed with [npm][npm]. After [installing npm][install-npm], you can install `ds-colors` with this command.
+This repository is distributed with [npm][npm]. After [installing npm][install-npm], you can install `syndia-colors` with this command.
 
 ```sh
 $ npm install --save @syndia/ds-colors

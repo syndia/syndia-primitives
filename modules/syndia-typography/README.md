@@ -1,6 +1,6 @@
 # Syndia Typography Primitives
 
-Color primitives for use with [Syndia][syndia], Syndia's design system.
+Typography primitives for use with [Syndia][syndia], Syndia's design system.
 
 [![npm version](https://img.shields.io/npm/v/syndia-primitives.svg)](https://www.npmjs.org/package/syndia-typography)
 
