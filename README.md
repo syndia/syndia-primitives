@@ -26,7 +26,7 @@ $ npm install --save @syndia/ds-primitives
 [syndia]: https://github.com/syndia/design-system
 [syndia-primitives]: https://github.com/syndia/syndia-primitives/tree/master/modules/syndia-primitives
 [syndia-colors]: https://github.com/syndia/syndia-primitives/tree/master/modules/syndia-colors
-[syndia-spacing]: https://github.com/primer/syndia-primitives/tree/master/modules/syndia-spacing
-[syndia-typography]: https://github.com/primer/syndia-primitives/tree/master/modules/syndia-typography
+[syndia-spacing]: https://github.com/syndia/syndia-primitives/tree/master/modules/syndia-spacing
+[syndia-typography]: https://github.com/syndia/syndia-primitives/tree/master/modules/syndia-typography
 [npm]: https://www.npmjs.com/
 [install-npm]: https://docs.npmjs.com/getting-started/installing-node
